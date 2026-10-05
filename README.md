@@ -1,13 +1,13 @@
 ## Hello!
 #### Thanks For Visiting My Profile!
 
-I am a Third-Year Computer Science student, who has a particular enjoyment in games programming, 
-especially in C++ with OpenGL and SDL. But my interests also extend into the wider field of
-software development, and I am always looking to learn more.
+I am a Post Graduate Researcher in Computer Science, in the area of indoor atmospheric environments and air quality. My typical project interests, however, lie within games programming, especially in C++ with OpenGL and SDL.
 
 Below, I have pinned some of my current best / most notable projects - a combination of personal
 and university coursework. Where possible, clips of these projects in action have been linked to 
 view via YouTube, with the Channel itself accessible [here](https://www.youtube.com/@MisterPuggsProgramming).
+
+This profile should soon be updated with a public repository on a custom C++/Lua scripting extension and game engine incorporating it. 
 
 ## Personal Projects
 
